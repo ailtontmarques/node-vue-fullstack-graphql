@@ -1,12 +1,12 @@
 <template>
   <div>
-    <div id="slogan" class="text-center">
+    <!-- <div id="slogan" class="text-center">
       <div class="text-center">
         <h1>NameGator</h1>
         <br/>
         <h6 class="text-secondary">Gerador de nomes utilizando Vue.js, GraphQL e Node</h6>
       </div>
-    </div>
+    </div> -->
     <div id="main">
       <DomainList></DomainList>
     </div>
